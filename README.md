@@ -15,5 +15,4 @@ flutter run
 - Displays a list of items 
 - User can add product to favourite
 
-<!-- ![alt text](https://github.com/asif46/StyleLab/blob/main/assets/project-UI.png) -->
-<img src="https://github.com/asif46/StyleLab/blob/main/assets/project-UI.png" alt="image description" class="no-click">
+![alt text](https://github.com/asif46/StyleLab/blob/main/assets/project-UI.png)
