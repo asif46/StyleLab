@@ -115,7 +115,7 @@ class ProductDetail extends StatelessWidget {
                 )
               ]);
             }),
-            SizedBox(height: 15.h),
+            SizedBox(height: 25.h),
             const ProductDetailWidget(),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20),

@@ -1,6 +1,7 @@
 # StyleLab Flutter Project
 
 This is a sample Flutter project that demonstrates how to build a simple mobile app.
+Note: Flutter version 3.7.3
 
 ## Getting Started
 

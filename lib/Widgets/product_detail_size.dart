@@ -20,7 +20,7 @@ class ProductDetailWidget extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text(
-                  "Hooded Fur Jacket",
+                  "Faux Leather Puffer Jacket",
                   style: TextStyle(letterSpacing: 1.5, fontSize: 16.sp),
                 ),
               ],
@@ -31,7 +31,6 @@ class ProductDetailWidget extends StatelessWidget {
               style: TextStyle(fontSize: 18.sp),
             ),
             SizedBox(height: 8.h),
-            //========= color container==================
             Row(
               children: [
                 Text(
